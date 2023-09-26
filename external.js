@@ -2,6 +2,8 @@
 // Rocks(0), Papers(1) or Scissors(2)
 
 
+alert("Rock Paper Scissors!");
+
 //1.Create a function called getComputerChoice which returns random rocks(0), papers(1) or scissors(2).
 function getComputerChoice()
 {
